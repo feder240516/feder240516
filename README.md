@@ -25,9 +25,12 @@ My stack: <br/>
 ![Processing](https://img.shields.io/badge/-Processing-black?style=flat-square&logo=processing)
 
 ✨ Some of my featured projects ✨
-- [Disk space assistant 📁](https://github.com/feder240516/check-folder-size) for checking biggest folders and files, with an intuitive GUI. Made in Python
-- [Doloun Adventure 🏰](https://github.com/feder240516/ActionRPG), an Action RPG Game prototype. Made in Unity.
 - [Slide Puzzle 🧩](https://github.com/feder240516/SlidePuzzle), made in HTML, CSS and JS.
+- [Disk space assistant 📁](https://github.com/feder240516/check-folder-size) for checking biggest folders and files, with an intuitive GUI. Made in Python
+- [Exercising App Prototype 💪🏼](https://www.figma.com/file/ZdExCsfBlBubPsm4ShKcSr/Healthcoach) (link to Figma), a prototype of a mobile app used to do exercise routines. 
+- [Doloun Adventure 🏰](https://github.com/feder240516/ActionRPG), an Action RPG Game prototype. Made in Unity.
+
+
 
 Coming soon:
 - AI that learns to play Space Invaders 👾 using genetics algorithm (private repo in alpha state)
