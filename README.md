@@ -39,6 +39,8 @@ Here is my Linkedin:
 
 [![Linkedin Badge](https://img.shields.io/badge/-feder240516-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/federeina/)](https://www.linkedin.com/in/federeina/)
 
+![](https://komarev.com/ghpvc/?username=feder240516&color=blueviolet)
+
 <!--
 **feder240516/feder240516** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
