@@ -1,6 +1,6 @@
 [Leer en español](https://github.com/feder240516/feder240516/blob/main/README-SPANISH.MD)
 ### Hi there 👋
-I am Federico Reina, Computer Engineer and an enthusiast of tech.
+I am Federico Reina, Computer Engineer and an tech enthusiast.
 
 I'm currently working at NTT Data as a Frontend Developer.
 
@@ -12,29 +12,27 @@ Some things I'm passionate about:
 
 My stack:
 
+ - Programming Languages:
+![TypeScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=typescript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=c&logoColor=purple)
+![Java](https://img.shields.io/badge/-java-black?style=flat-square&logo=java&logoColor=blue)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=blue)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+
  - Frontend:
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular&logoColor=red)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
 
  - Backend: 
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![dotnet](https://img.shields.io/badge/-ASP_NET-black?style=flat-square&logo=microsoft&logoColor=purple)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 
  - Databases:
 ![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=mysql)
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-
- - Programming Languages:
-![TypeScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=typescript)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Java](https://img.shields.io/badge/-java-black?style=flat-square&logo=java&logoColor=blue)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=blue)
-![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c&logoColor=blue)
-![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=c&logoColor=purple)
 
  - Other tools:
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
