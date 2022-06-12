@@ -9,8 +9,8 @@ Some things I'm passionate about:
 My stack:
 
  - Frontend:
-![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular&logoColor=red)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular&logoColor=red)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
 
  - Backend: 
@@ -38,14 +38,10 @@ My stack:
 
 ✨ Some of my featured projects ✨
 - [Slide Puzzle 🧩](https://github.com/feder240516/SlidePuzzle), made in HTML, CSS and JS.
-- [Disk space assistant 📁](https://github.com/feder240516/check-folder-size) for checking biggest folders and files, with an intuitive GUI. Made in Python
-- [Exercising App Prototype 💪🏼](https://www.figma.com/file/ZdExCsfBlBubPsm4ShKcSr/Healthcoach) (link to Figma), a prototype of a mobile app used to do exercise routines. 
+- [Exercising App Prototype 💪🏼](https://www.figma.com/file/ZdExCsfBlBubPsm4ShKcSr/Healthcoach) (link to Figma), a prototype of a mobile app used to do exercise routines.
+- [Todo App](https://github.com/feder240516/TodoApp), made in React.
+- [Disk space assistant 📁](https://github.com/feder240516/check-folder-size) for analyzing disk storage, with an intuitive GUI. Made in Python
 - [Doloun Adventure 🏰](https://github.com/feder240516/ActionRPG), an Action RPG Game prototype. Made in Unity.
-
-
-
-Coming soon:
-- AI that learns to play Space Invaders 👾 using genetics algorithm (private repo in alpha state)
 
 Here is my Linkedin:
 
