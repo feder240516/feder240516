@@ -47,7 +47,7 @@ My stack:
 - [Fitness App Mockup 💪🏼](https://www.figma.com/proto/ZdExCsfBlBubPsm4ShKcSr/Healthcoach?node-id=591%3A5716&scaling=scale-down&page-id=0%3A1&starting-point-node-id=591%3A5716) (link to Figma), a prototype of a mobile app used to do workout routines. [Design file](https://www.figma.com/file/ZdExCsfBlBubPsm4ShKcSr/Healthcoach)
 - [Slide Puzzle 🧩](https://feder240516.github.io/SlidePuzzle/), made in HTML, CSS and JS. [Source code](https://github.com/feder240516/SlidePuzzle)
 - [Disk storage assistant 📁](https://github.com/feder240516/check-folder-size/releases) (download page of Windows executable), a desktop app for analyzing disk storage, with an intuitive GUI. Made in Python. [Source code](https://github.com/feder240516/check-folder-size)
-- [Doloun Adventure 🏰](https://www.kongregate.com/games/feder240516/aventura-doloun), an Action RPG Game prototype. Made in Unity. [Código fuente](https://github.com/feder240516/ActionRPG)
+- [Doloun Adventure 🏰](https://www.kongregate.com/games/feder240516/aventura-doloun), an Action RPG Game prototype. Made in Unity. [Source Code](https://github.com/feder240516/ActionRPG)
 
 Here is my Linkedin:
 
