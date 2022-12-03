@@ -2,13 +2,14 @@
 ### Hi there 👋
 I am Federico Reina, Computer Engineer and an tech enthusiast.
 
-I'm currently working at NTT Data as a Frontend Developer.
+Here is my web page 🌐: https://feder240516.github.io/personal-page/
+
+I'm currently working at Data Tools as a Frontend Developer.
 
 Some things I'm passionate about:
 - Web Development ☁
 - Competitive Programming 🏆
 - Game Design 🎮
-- Machine Learning 🧠
 
 My stack:
 
