@@ -2,13 +2,14 @@
 ### Hola!👋
 Soy Federico Reina, ingeniero informático y un entusiasta de la tecnología.
 
-Actualmente trabajo como desarrollador frontend en NTT Data.
+Esta es mi página web 🌐: https://feder240516.github.io/personal-page/
+
+Actualmente trabajo como desarrollador frontend en Data Tools.
 
 Estas son algunas cosas que me apasionan:
 - Desarrollo y diseño web ☁
 - Programación competitiva 🏆
 - Desarrollo de videojuegos 🎮
-- Machine Learning 🧠
 
 Mi stack:
 
