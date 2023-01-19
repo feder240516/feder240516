@@ -14,7 +14,7 @@ Estas son algunas cosas que me apasionan:
 Mi stack:
 
  - Lenguajes de programación:
-![TypeScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=typescript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=c&logoColor=purple)
 ![Java](https://img.shields.io/badge/-java-black?style=flat-square&logo=java&logoColor=blue)
