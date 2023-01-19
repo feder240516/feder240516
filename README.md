@@ -14,10 +14,10 @@ Some things I'm passionate about:
 My stack:
 
  - Programming Languages:
-![TypeScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=typescript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=c&logoColor=purple)
-![Java](https://img.shields.io/badge/-java-black?style=flat-square&logo=java&logoColor=blue)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java&logoColor=blue)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=blue)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
