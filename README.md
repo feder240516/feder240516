@@ -18,18 +18,17 @@ My stack:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=c&logoColor=purple)
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java&logoColor=blue)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=blue)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 
  - Frontend:
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular&logoColor=red)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
+![Tailwind](https://img.shields.io/badge/-Tailwind-black?style=flat-square&logo=tailwind-css)
 
  - Backend: 
-![dotnet](https://img.shields.io/badge/-ASP_NET-black?style=flat-square&logo=microsoft&logoColor=purple)
+![Next.js](https://img.shields.io/badge/-Nextjs-black?style=flat-square&logo=Vercel)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![dotnet](https://img.shields.io/badge/-ASP_NET-black?style=flat-square&logo=microsoft&logoColor=purple)
 
  - Databases:
 ![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=mysql)
@@ -38,14 +37,13 @@ My stack:
  - Other tools:
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Processing](https://img.shields.io/badge/-Processing-black?style=flat-square&logo=processing)
 
 ✨ Some of my featured public personal projects ✨
 
-- [To-do App 📋](https://feder240516.github.io/TodoApp/), made in React. [Source code](https://github.com/feder240516/TodoApp)
+- [Slide Puzzle 🧩](https://feder240516.github.io/SlidePuzzle/), made in HTML, CSS and JS. [Source code](https://github.com/feder240516/SlidePuzzle)
 - [Celebration letter 💌](https://feder240516.github.io/celebration-letter/), a web template of an animated letter to send to a loved one. Made in React. [Source code](https://github.com/feder240516/celebration-letter).
 - [Fitness App Mockup 💪🏼](https://www.figma.com/proto/ZdExCsfBlBubPsm4ShKcSr/Healthcoach?node-id=591%3A5716&scaling=scale-down&page-id=0%3A1&starting-point-node-id=591%3A5716) (link to Figma), a prototype of a mobile app used to do workout routines. [Design file](https://www.figma.com/file/ZdExCsfBlBubPsm4ShKcSr/Healthcoach)
-- [Slide Puzzle 🧩](https://feder240516.github.io/SlidePuzzle/), made in HTML, CSS and JS. [Source code](https://github.com/feder240516/SlidePuzzle)
+- [To-do App 📋](https://feder240516.github.io/TodoApp/), made in React. [Source code](https://github.com/feder240516/TodoApp)
 - [Disk storage assistant 📁](https://github.com/feder240516/check-folder-size/releases) (download page of Windows executable), a desktop app for analyzing disk storage, with an intuitive GUI. Made in Python. [Source code](https://github.com/feder240516/check-folder-size)
 - [Doloun Adventure 🏰](https://www.kongregate.com/games/feder240516/aventura-doloun), an Action RPG Game prototype. Made in Unity. [Source Code](https://github.com/feder240516/ActionRPG)
 
